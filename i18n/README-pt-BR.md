@@ -15,4 +15,4 @@ Provavelmente usarei node.js para o backend e um frontend simples com HTML/CSS/J
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](../LICENSE).
+Este projeto está licenciado sob a [Licença MIT](../LICENSE.md).
